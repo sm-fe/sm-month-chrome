@@ -1,8 +1,10 @@
+const HOST = 'month.fe.sm.cn';
+
 chrome.tabs.getSelected(null,function(tab) {
     const url = encodeURIComponent(tab.url);
 	const title = encodeURIComponent(tab.title);
 	
-	fetch(`http://localhost:7001/send?url=${url}&title=${title}`).then(function(res) {
+	fetch(`http://${HOST}/send?url=${url}&title=${title}`).then(function(res) {
 		if (res.ok) {
 		    res.json().then(function(data) {
 				document.getElementById('sm-month-tip').innerText = data.text;	
