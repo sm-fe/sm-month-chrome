@@ -3,11 +3,9 @@
 
 ## 插件下载：
 
-[http://sm01.alicdn.com/L1/272/6837/static/tools/sm-month-chrome.crx](http://sm01.alicdn.com/L1/272/6837/static/tools/sm-month-chrome.crx)
+本插件已经发布到chrome 应用商店
 
-### 安装第三方插件步骤
-
-[怎么安装Chrome插件](http://jingyan.baidu.com/article/e5c39bf56286ae39d6603374.html)
+[chrome 应用商店下载](https://chrome.google.com/webstore/detail/%E7%A5%9E%E9%A9%AC%E6%90%9C%E7%B4%A2%E6%9C%88%E5%88%8A%E6%8E%A8%E8%8D%90/alekbeeadgioeokadnpabhfchonpmdgb)
 
 ## 查看地址：
 
