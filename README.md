@@ -1,8 +1,6 @@
 神马月刊收集Chrome 插件
 ----
 
-[![Coffee Pay](http://cp.alibaba.net/projects/5713a15788fe1722400578fd/badge)](http://cp.alibaba.net/donates?id=5713a15788fe1722400578fd)
-
 ## 插件下载：
 
 [http://sm01.alicdn.com/L1/272/6837/static/tools/sm-month-chrome.crx](http://sm01.alicdn.com/L1/272/6837/static/tools/sm-month-chrome.crx)
